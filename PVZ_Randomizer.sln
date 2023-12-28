@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVZ_Randomizer", "PVZ_Randomizer.csproj", "{414422B7-0F11-4C25-A298-3DC3EDEF3075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414422B7-0F11-4C25-A298-3DC3EDEF3075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414422B7-0F11-4C25-A298-3DC3EDEF3075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414422B7-0F11-4C25-A298-3DC3EDEF3075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414422B7-0F11-4C25-A298-3DC3EDEF3075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5DBE05-31E3-4D4E-8451-3FFA408678AB}
+	EndGlobalSection
+EndGlobal

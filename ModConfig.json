@@ -1,0 +1,21 @@
+{
+  "ModId": "PVZ_Randomizer",
+  "ModName": "PvZ Randomizer",
+  "ModAuthor": "BreakfastBrainz2",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Randomizes the order of levels (and, optionally, seed packets) in Adventure.",
+  "ModDll": "PVZ_Randomizer.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/PVZ_Randomizer.dll",
+  "ModR2RManagedDll64": "x64/PVZ_Randomizer.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "PVZ_Randomizer.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [ "plantsvszombies.exe" ],
+  "ProjectUrl": ""
+}
